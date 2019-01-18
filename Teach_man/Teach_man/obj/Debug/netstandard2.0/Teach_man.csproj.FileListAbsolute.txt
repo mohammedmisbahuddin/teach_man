@@ -1,0 +1,17 @@
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\bin\Debug\netstandard2.0\Teach_man.deps.json
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\bin\Debug\netstandard2.0\Teach_man.dll
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\bin\Debug\netstandard2.0\Teach_man.pdb
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Teach_man.csprojAssemblyReference.cache
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Teach_man.csproj.CoreCompileInputs.cache
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Teach_man.AssemblyInfoInputs.cache
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Teach_man.AssemblyInfo.cs
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Teach_man.dll
+C:\Users\mohammedmisbahuddin\source\repos\Teach_man\Teach_man\Teach_man\obj\Debug\netstandard2.0\Teach_man.pdb
